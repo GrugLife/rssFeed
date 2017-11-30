@@ -8,14 +8,22 @@ from dateutil.parser import parse
 
 websites = {'undercoverEconomist': ['http://timharford.com/articles/undercovereconomist', 'div', {'id': 'content-inner'},
                                     'h2', 'a', {'class': 'date'}],
-            'moneyness': ['http://jpkoning.blogspot.com', 'div', {'class': 'blog-posts hfeed'}, 'h3'],
-            'angryBear': ['https://angrybearblog.com', 'section', {'id': 'main'}, 'h2'],
-            'truthOnTheMarket': ['https://truthonthemarket.com', 'div', {'id': 'main'}, 'h2'],
-            'libertyStreetEconomics': ['http://libertystreeteconomics.newyorkfed.org', 'div', {'class': 'grid_6 push_1'}, 'h3'],
-            'voxEU': ['http://voxeu.org', 'div', {'class': 'view-content'}, 'h2'],
-            'cepr': ['http://cepr.net/blogs/cepr-blog', 'div', {'class': 'blog'}, 'h2'],
-            'nber': ['http://www.nber.org', 'div', {'id': 'storyWrapper'}, 'h2'],
-            'calculatedRisk': ['http://www.calculatedriskblog.com/', 'div', {'class': 'blog-posts hfeed'}, 'h3']
+            'moneyness': ['http://jpkoning.blogspot.com', 'div', {'class': 'blog-posts hfeed'},
+                          'h3', 'h2', {'class': 'date-header'}],
+            'angryBear': ['https://angrybearblog.com', 'section', {'id': 'main'},
+                          'h2', 'span', {'class': 'separator'}],
+            'truthOnTheMarket': ['https://truthonthemarket.com', 'div', {'id': 'main'},
+                                 'h2', 'span', {'class': 'the-time updated'}],
+            'libertyStreetEconomics': ['http://libertystreeteconomics.newyorkfed.org', 'div', {'class': 'grid_6 push_1'},
+                                       'h3', 'div', {'class': 'ts-blog-strap'}],
+            'voxEU': ['http://voxeu.org', 'div', {'class': 'view-content'},
+                      'h2', 'span', {'class': 'date-display-single'}],
+            #'cepr': ['http://cepr.net/blogs/cepr-blog', 'div', {'class': 'blog'},
+            #         'h2', 'dd', {'class': 'published'}],
+            'nber': ['http://www.nber.org', 'div', {'id': 'storyWrapper'},
+                     'h2', 'p', {'class': 'subheadSource'}],
+            'calculatedRisk': ['http://www.calculatedriskblog.com/', 'div', {'class': 'blog-posts hfeed'},
+                               'h3', 'abbr', {'class': 'published'}]
             }
 
 with open('rss.json', 'r') as f:
@@ -90,7 +98,11 @@ def date(name, website, soup):
         except:
             pass
 
-        titleAndLinks[name].setdefault('date', []).append(d_text)
+        try:
+            #titleAndLinks[name].setdefault('date', []).append(parse(d_text))
+            print(parse(d_text))
+        except Exception as e:
+            print('this one is not the right format' + name + d_text, e)
 
 
 def websiteLoop():
@@ -110,7 +122,6 @@ def main():
         json.dump(titleAndLinks, f, indent=4)
 
 
-
 if __name__ == '__main__':
     main()
-	
+

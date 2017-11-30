@@ -1,12 +1,177 @@
 {
-    "What AlphaGo Zero teaches us about what\u2019s going wrong with innovation": "\n24th of November, 2017 \u2022  Undercover Economist \u2022 Comments off ",
-    "Disruption can be a benefit \u2013 shame our politicians are giving us the wrong sort": "\n10th of November, 2017 \u2022  Undercover Economist \u2022 Comments off ",
-    "Richard Thaler: How to change minds and influence people": "\n27th of October, 2017 \u2022  Undercover Economist \u2022 Comments off ",
-    "Monty Hall and the game show stick-or-switch conundrum": "\n13th of October, 2017 \u2022  Undercover Economist \u2022 Comments off ",
-    "The pendulum swings against privatisation": "\n29th of September, 2017 \u2022  Undercover Economist \u2022 Comments off ",
-    "Fatal Attraction of Fake Facts Sours Political Debate": "http://timharford.com/2017/10/fatal-attraction-of-fake-facts-sours-political-debate/",
-    "Echoes of a bygone age show Britain losing its sense of direction": "http://timharford.com/2017/10/echoes-of-a-bygone-age-show-britain-losing-its-sense-of-direction/",
-    "True diversity means looking for the knife in a drawer of spoons": "http://timharford.com/2017/10/true-diversity-means-looking-for-the-knife-in-a-drawer-of-spoons/",
-    "When doing nothing is the best option": "http://timharford.com/2017/09/when-doing-nothing-is-the-best-option/",
-    "Trump, Bannon, and the terrible lure of zero-sum thinking": "http://timharford.com/2017/09/trump-bannon-and-the-terrible-lure-of-zero-sum-thinking/"
+    "undercoverEconomist": {
+        "title": [
+            "What AlphaGo Zero teaches us about what\u2019s going wrong with innovation",
+            "Disruption can be a benefit \u2013 shame our politicians are giving us the wrong sort",
+            "Richard Thaler: How to change minds and influence people",
+            "Monty Hall and the game show stick-or-switch conundrum",
+            "The pendulum swings against privatisation",
+            "Fatal Attraction of Fake Facts Sours Political Debate",
+            "Echoes of a bygone age show Britain losing its sense of direction",
+            "True diversity means looking for the knife in a drawer of spoons",
+            "When doing nothing is the best option",
+            "Trump, Bannon, and the terrible lure of zero-sum thinking"
+        ],
+        "link": [
+            "http://timharford.com/2017/11/what-alphago-zero-teaches-us-about-whats-going-wrong-with-innovation/",
+            "http://timharford.com/2017/11/disruption-can-be-a-benefit-shame-our-politicians-are-giving-us-the-wrong-sort/",
+            "http://timharford.com/2017/11/richard-thaler-how-to-change-minds-and-influence-people/",
+            "http://timharford.com/2017/11/monty-hall-and-the-game-show-stick-or-switch-conundrum/",
+            "http://timharford.com/2017/10/the-pendulum-swings-against-privatisation/",
+            "http://timharford.com/2017/10/fatal-attraction-of-fake-facts-sours-political-debate/",
+            "http://timharford.com/2017/10/echoes-of-a-bygone-age-show-britain-losing-its-sense-of-direction/",
+            "http://timharford.com/2017/10/true-diversity-means-looking-for-the-knife-in-a-drawer-of-spoons/",
+            "http://timharford.com/2017/09/when-doing-nothing-is-the-best-option/",
+            "http://timharford.com/2017/09/trump-bannon-and-the-terrible-lure-of-zero-sum-thinking/"
+        ],
+        "date": []
+    },
+    "moneyness": {
+        "title": [
+            "Central banks shouldn't ignore their duty to provide anonymity",
+            "Zimbabwe and hyperbitcoinization",
+            "The bootstrapping of Thorne, Magic Money, and Cyberbucks: three pre-Bitcoin monetary experiments",
+            "The evolution of the Federal Reserve's promises as recorded on their banknotes",
+            "An example of tax-driven money during the greenback era",
+            "The ubiquitous Spanish dollar\u2014a photo essay",
+            "The siren call of T+0, or real-time settlement",
+            "Post-demonetization, the role of cash has been diminished"
+        ],
+        "link": [
+            "http://jpkoning.blogspot.com/2017/11/central-banks-shouldnt-ignore-their.html",
+            "http://jpkoning.blogspot.com/2017/11/zimbabwe-and-hyperbitcoinization.html",
+            "http://jpkoning.blogspot.com/2017/11/the-bootstrapping-of-thorne-magic-money.html",
+            "http://jpkoning.blogspot.com/2017/10/the-evolution-of-federal-reserves.html",
+            "http://jpkoning.blogspot.com/2017/10/an-example-of-tax-driven-money-during.html",
+            "http://jpkoning.blogspot.com/2017/10/the-ubiquitous-spanish-dollara-photo.html",
+            "http://jpkoning.blogspot.com/2017/09/the-siren-call-of-t0-or-real-time.html",
+            "http://jpkoning.blogspot.com/2017/09/post-demonetization-role-of-cash-has.html"
+        ],
+        "date": []
+    },
+    "angryBear": {
+        "title": [
+            "Medicare and Social Security reductions?",
+            "Cryptocurrencies:  Future or bubble?",
+            "Larry Summers and Jason Furman Demolish GOP Arguments",
+            "Healthcare Costs and Waste",
+            "Open thread Nov. 28, 2017",
+            "A Message for GOP Senators Undecided on Tax Bill",
+            "I am so thankful that I am an economic blogger",
+            "Macroeconomic policy and exchange rate regimes under global financial integration",
+            "Tolerance And Terrorism In Saudi Arabia",
+            "Healthcare Costs and Its Drivers Today"
+        ],
+        "link": [
+            "https://angrybearblog.com/2017/11/medicare-and-social-security-reductions.html",
+            "https://angrybearblog.com/2017/11/cryptocurrencies-future-or-bubble.html",
+            "https://angrybearblog.com/2017/11/larry-summers-and-jason-furman-demolish-gop-arguments.html",
+            "https://angrybearblog.com/2017/11/healthcare-costs-and-waste.html",
+            "https://angrybearblog.com/2017/11/open-thread-nov-28-2017.html",
+            "https://angrybearblog.com/2017/11/a-message-for-gop-senators-undecided-on-tax-bill.html",
+            "https://angrybearblog.com/2017/11/i-am-so-thankful-that-i-am-an-economic-blogger.html",
+            "https://angrybearblog.com/2017/11/financial-integration-macroeconomic-policy-and-exchange-rate-regimes-under-global.html",
+            "https://angrybearblog.com/2017/11/tolerance-and-terrorism-in-saudi-arabia.html",
+            "https://angrybearblog.com/2017/11/healthcare-costs-and-its-drivers-today.html"
+        ],
+        "date": []
+    },
+    "truthOnTheMarket": {
+        "title": [
+            "Pai\u2019s Right on Net Neutrality and Title\u00a0II",
+            "Portugal Isn\u2019t a Horseman of the Net Neutrality\u00a0Apocalypse",
+            "Supreme Court Turns Again to Patent Cases, Against the Backdrop of a Decline in American Patent Protection that Threatens Future U.S. Innovation and International\u00a0Competitiveness",
+            "2018 Edition of the Heritage Foundation\u2019s Index of Economic Freedom:  Freedom to Trade Is a Key to\u00a0Prosperity",
+            "Some Good News (Maybe?) from DOJ\u2019s Antitrust\u00a0Division",
+            "Just in Time for Christmas:  How to\u00a0Regulate",
+            "New Report: Canadian Interchange Fee Caps Would Hurt\u00a0Consumers",
+            "A Well-Reasoned Antitrust Division Boost for the Legitimate Exploitation of Patent\u00a0Rights",
+            "Thom Lambert on Fred\u00a0McChesney",
+            "ICLE Files Ex Parte Notice With FCC on Restoring Internet Freedom\u00a0NPRM"
+        ],
+        "link": [
+            "https://truthonthemarket.com/2017/11/29/pais-right-on-net-neutrality-and-title-ii/",
+            "https://truthonthemarket.com/2017/11/22/portugal-isnt-a-horseman-of-the-net-neutrality-apocalypse/",
+            "https://truthonthemarket.com/2017/11/22/supreme-court-turns-again-to-patent-cases-against-the-backdrop-of-a-decline-in-american-patent-protection-that-threatens-future-u-s-innovation-and-international-competitiveness/",
+            "https://truthonthemarket.com/2017/11/21/2018-edition-of-the-heritage-foundations-index-of-economic-freedom-freedom-to-trade-is-a-key-to-prosperity/",
+            "https://truthonthemarket.com/2017/11/17/some-good-news-maybe-from-dojs-antitrust-division/",
+            "https://truthonthemarket.com/2017/11/15/just-in-time-for-christmas-how-to-regulate/",
+            "https://truthonthemarket.com/2017/11/15/new-report-canadian-interchange-fee-caps-would-hurt-consumers/",
+            "https://truthonthemarket.com/2017/11/15/a-well-reasoned-antitrust-division-boost-for-the-legitimate-exploitation-of-patent-rights/",
+            "https://truthonthemarket.com/2017/11/09/thom-lambert-on-fred-mcchesney/",
+            "https://truthonthemarket.com/2017/11/09/icle-files-ex-parte-notice-with-fcc-on-restoring-internet-freedom-nprm/"
+        ],
+        "date": []
+    },
+    "libertyStreetEconomics": {
+        "title": [
+            "\r\n  Did Investor Sentiment Affect Credit Risk around the 2016 Election?\r\n  "
+        ],
+        "link": [
+            "http://libertystreeteconomics.newyorkfed.org\r\nhttp://libertystreeteconomics.newyorkfed.org/2017/11/did-investor-sentiment-affect-credit-risk-around-the-2016-election.html\r\n"
+        ],
+        "date": []
+    },
+    "voxEU": {
+        "title": [
+            "The cash comeback: Evidence and possible explanations",
+            "Why poor countries invest too little in R&D",
+            "House prices and the UK economy",
+            "\u00a3300 million a week: The output cost of the Brexit vote",
+            "Diagnosing the Italian disease"
+        ],
+        "link": [
+            "http://voxeu.org/article/cash-comeback-evidence-and-possible-explanations",
+            "http://voxeu.org/article/why-poor-countries-invest-too-little-rd",
+            "http://voxeu.org/article/house-prices-and-uk-economy",
+            "http://voxeu.org/article/300-million-week-output-cost-brexit-vote",
+            "http://voxeu.org/article/diagnosing-italian-disease"
+        ],
+        "date": []
+    },
+    "cepr": {
+        "title": [],
+        "link": [],
+        "date": []
+    },
+    "nber": {
+        "title": [
+            "\nEducational Choice, Rural-Urban Migration, and Economic Development in China\n",
+            "\nRent Control and Property Crime \n",
+            "\nAre There Too Many Farms in the World? \n"
+        ],
+        "link": [
+            "http://www.nber.org/papers/w23939?sy=939",
+            "http://www.nber.org/papers/w23914?sy=914",
+            "http://www.nber.org/papers/w23909?sy=909"
+        ],
+        "date": []
+    },
+    "calculatedRisk": {
+        "title": [
+            "Policy Mistakes",
+            "Freddie Mac: Mortgage Serious Delinquency rate unchanged in October",
+            "NAR: Pending Home Sales Index increase in October, Down 0.6% Year-over-year",
+            "Q3 GDP Revised up to 3.3% Annual Rate",
+            "MBA: Mortgage Applications Decrease in Latest Weekly Survey",
+            "Wednesday: GDP, Pending Home Sales, Fed Chair Yellen ",
+            "Zillow Case-Shiller Forecast: More Solid House Price Gains in October",
+            "A few comments on the Seasonal Pattern for House Prices",
+            "Real House Prices and Price-to-Rent Ratio in September",
+            "Richmond Fed: \"Fifth District Manufacturing Activity Saw Robust Growth in November\""
+        ],
+        "link": [
+            "http://www.calculatedriskblog.com/2017/11/policy-mistakes.html",
+            "http://www.calculatedriskblog.com/2017/11/freddie-mac-mortgage-serious.html",
+            "http://www.calculatedriskblog.com/2017/11/nar-pending-home-sales-index-increase.html",
+            "http://www.calculatedriskblog.com/2017/11/q3-gdp-revised-up-to-33-annual-rate.html",
+            "http://www.calculatedriskblog.com/2017/11/mba-mortgage-applications-decrease-in_29.html",
+            "http://www.calculatedriskblog.com/2017/11/wednesday-gdp-pending-home-sales-fed.html",
+            "http://www.calculatedriskblog.com/2017/11/zillow-case-shiller-forecast-more-solid.html",
+            "http://www.calculatedriskblog.com/2017/11/a-few-comments-on-seasonal-pattern-for_28.html",
+            "http://www.calculatedriskblog.com/2017/11/real-house-prices-and-price-to-rent.html",
+            "http://www.calculatedriskblog.com/2017/11/richmond-fed-fifth-district.html"
+        ],
+        "date": []
+    }
 }
