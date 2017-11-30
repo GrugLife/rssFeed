@@ -12,9 +12,12 @@ soup = BeautifulSoup(r.text, 'html.parser')
 results = soup.find(websites['angryBear'][1], websites['angryBear'][2])
 date = results.find_all(websites['angryBear'][4], websites['angryBear'][5])
 dateList = []
+today = datetime.datetime.now()
+DD = datetime.timedelta(days=7)
+lookBack = today - DD
 for d in date:
     if len(d.text.split('|')) == 2:
-        print(parse(d.text.split('|')[1]))
+        print(parse(d.text.split('|')[1]) > lookBack)
 
 
 
